@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sun Jul 15 23:11:02 EDT 2018
+2.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+5.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=DEX
+4.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_simple_dht_main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_simple_dht_main.xml
+5.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/anurag/Desktop/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
