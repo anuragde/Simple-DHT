@@ -1,4 +1,4 @@
-# Simple-DHT
+# Simple DHT
 Designed a Simple DHT based on Chord
 - Implemented ID space partitioning/re-partitioning
 - Implemented Ring-based routing
