@@ -9,12 +9,12 @@ https://docs.google.com/document/d/1Y24TKLiBYLHk7hKFgHy2zQJI3UTHkBbNJ7mGYkwyy6E/
 
 2. Testing scripts and instructions are provided in the specification document.
 
-Chord DHT:
+#### Chord DHT:
 1. Distributed Hash Table using consistent hashing.
 2. Orgnaizes nodes in a ring.
 
 
-Algorithm implementing Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications
+#### Algorithm implementing Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications
 
 1. Represent the hash Key space as a virtual ring.
 2. Use the SHA-1 hash function that evenly distributes items over hash space.
